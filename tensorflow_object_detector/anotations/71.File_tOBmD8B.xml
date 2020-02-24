@@ -1,0 +1,26 @@
+<annotation>
+	<folder>寶礦力</folder>
+	<filename>71.File_tOBmD8B.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\寶礦力\71.File_tOBmD8B.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>703</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>794</xmin>
+			<ymin>29</ymin>
+			<xmax>892</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

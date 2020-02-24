@@ -1,0 +1,62 @@
+<annotation>
+	<folder>寶礦力</folder>
+	<filename>317.58db17e7cc3101999.png_d320.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\寶礦力\317.58db17e7cc3101999.png_d320.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>318</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>35</ymin>
+			<xmax>99</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>30</ymin>
+			<xmax>169</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>26</ymin>
+			<xmax>238</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>21</ymin>
+			<xmax>305</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

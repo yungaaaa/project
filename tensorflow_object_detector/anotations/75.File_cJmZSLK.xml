@@ -1,0 +1,26 @@
+<annotation>
+	<folder>寶礦力</folder>
+	<filename>75.File_cJmZSLK.png</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\寶礦力\75.File_cJmZSLK.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>820</width>
+		<height>312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>157</ymin>
+			<xmax>442</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

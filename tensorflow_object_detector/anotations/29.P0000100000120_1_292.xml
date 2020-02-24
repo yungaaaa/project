@@ -1,0 +1,26 @@
+<annotation>
+	<folder>麥香奶茶</folder>
+	<filename>29.P0000100000120_1_292.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\麥香奶茶\29.P0000100000120_1_292.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>240</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>milk tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>5</ymin>
+			<xmax>184</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

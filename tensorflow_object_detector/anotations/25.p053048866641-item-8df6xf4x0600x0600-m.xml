@@ -1,0 +1,50 @@
+<annotation>
+	<folder>波蜜果菜汁</folder>
+	<filename>25.p053048866641-item-8df6xf4x0600x0600-m.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\波蜜果菜汁\25.p053048866641-item-8df6xf4x0600x0600-m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vegetables juice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>156</ymin>
+			<xmax>529</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vegetables juice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>157</ymin>
+			<xmax>372</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vegetables juice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>161</ymin>
+			<xmax>227</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

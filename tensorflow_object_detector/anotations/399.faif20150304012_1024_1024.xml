@@ -1,0 +1,38 @@
+<annotation>
+	<folder>寶礦力</folder>
+	<filename>399.faif20150304012_1024_1024.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\寶礦力\399.faif20150304012_1024_1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>803</width>
+		<height>452</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>1</ymin>
+			<xmax>474</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>173</ymin>
+			<xmax>615</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

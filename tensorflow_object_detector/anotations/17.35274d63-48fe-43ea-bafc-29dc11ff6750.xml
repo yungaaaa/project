@@ -1,0 +1,26 @@
+<annotation>
+	<folder>波蜜果菜汁</folder>
+	<filename>17.35274d63-48fe-43ea-bafc-29dc11ff6750.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\波蜜果菜汁\17.35274d63-48fe-43ea-bafc-29dc11ff6750.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vegetables juice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>19</ymin>
+			<xmax>280</xmax>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+</annotation>

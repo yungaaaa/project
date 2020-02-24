@@ -1,0 +1,26 @@
+<annotation>
+	<folder>寶礦力</folder>
+	<filename>91.cd1c959c6b0e4cac0bc6fa6c688986ea.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\寶礦力\91.cd1c959c6b0e4cac0bc6fa6c688986ea.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>9</ymin>
+			<xmax>415</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

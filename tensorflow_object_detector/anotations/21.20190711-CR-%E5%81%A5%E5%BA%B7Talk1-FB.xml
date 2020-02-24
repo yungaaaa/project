@@ -1,0 +1,38 @@
+<annotation>
+	<folder>寶礦力</folder>
+	<filename>21.20190711-CR-%E5%81%A5%E5%BA%B7Talk1-FB.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\寶礦力\21.20190711-CR-%E5%81%A5%E5%BA%B7Talk1-FB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>14</ymin>
+			<xmax>572</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>4</ymin>
+			<xmax>432</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>寶礦力</folder>
+	<filename>82.nhB3MSn.png</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\寶礦力\82.nhB3MSn.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1242</width>
+		<height>1656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>77</ymin>
+			<xmax>978</xmax>
+			<ymax>1509</ymax>
+		</bndbox>
+	</object>
+</annotation>

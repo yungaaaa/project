@@ -1,0 +1,38 @@
+<annotation>
+	<folder>寶礦力</folder>
+	<filename>74.20190710_CR_%E5%AF%B6%E7%A4%A6%E5%8A%9B-1.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\寶礦力\74.20190710_CR_%E5%AF%B6%E7%A4%A6%E5%8A%9B-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>369</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>1</ymin>
+			<xmax>542</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>POCARI SWEAT</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>1</ymin>
+			<xmax>388</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>麥香奶茶</folder>
+	<filename>2.4108707_R.jpg</filename>
+	<path>C:\Users\User\Desktop\20200130\downloads\麥香奶茶\2.4108707_R.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>milk tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>157</ymin>
+			<xmax>194</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milk tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>168</ymin>
+			<xmax>354</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>milk tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>176</ymin>
+			<xmax>572</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>
